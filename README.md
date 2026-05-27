@@ -39,37 +39,30 @@ Once your content is in the repo, use these three phrases with Copilot to build 
 
 # [Microsoft Build 2026](https://build.microsoft.com)
 
-## 🔥 BRKXXX: SESSION TITLE
+## 🔥 DEM304: Union types in C#
 
-### Session Description
+### Demo Description
 
-*Add Session Description*
+Union types are coming to C#. In this demo, Mads and Dustin show how unions model closed sets of data shapes, commonly seen in wire protocols, enabling clearer intent and more confident, elegant consuming code.
 
-### 🏫 Getting started in a guided session
-
-To get started in a guided lab session:
-- <!-- step 1 -->
-- <!-- step 2 -->
-- <!-- step 3 -->
-
-### 🏠 Getting started in your own environment
+### 🚀 Getting started
 
 If you're following these steps at your own pace:
 - Clone this repository
-- Set up your development environment
-- <!-- step 3 -->
+- Install the latest .NET SDK
+- Open the code in Visual Studio
 
 ### 🧠 Learning Outcomes
 
-By the end of this session, you will be able to:
+By the end of this demo, you will be able to:
 
-- <!-- outcome 1 -->
-- <!-- outcome 2 -->
-- <!-- outcome 3 -->
+- Understand what union types are and how they represent closed sets of data shapes in C#.
+- See how union types improve intent, safety, and readability when consuming structured data such as wire protocol messages.
+- Decide when union types are a better fit than class hierarchies, enums, or ad-hoc discriminators.
 
 ### 💬 Keep Learning with Copilot
 
-Try these prompts with GitHub Copilot to explore the topics from this session. Open Copilot Chat in VS Code (`Ctrl+Alt+I` on Windows/Linux, `Cmd+Shift+I` on Mac), paste a prompt, and see what you learn. Try connecting the [Microsoft Learn MCP Server](#-microsoft-learn-mcp-server) for the latest official documentation.
+Try these prompts with GitHub Copilot to explore the topics from this demo. Open Copilot Chat in VS Code (`Ctrl+Alt+I` on Windows/Linux, `Cmd+Shift+I` on Mac), paste a prompt, and see what you learn. Try connecting the [Microsoft Learn MCP Server](#-microsoft-learn-mcp-server) for the latest official documentation.
 
 Use these as a starting point — or write your own!
 
@@ -79,15 +72,15 @@ Use these as a starting point — or write your own!
 
 ### 💻 Technologies Used
 
-1. <!-- technology 1 -->
-1. <!-- technology 2 -->
-1. <!-- technology 3 -->
+1. [C#](https://learn.microsoft.com/dotnet/csharp/tour-of-csharp/overview)
+1. [.NET](https://learn.microsoft.com/dotnet/core/introduction)
+1. [Visual Studio](https://learn.microsoft.com/visualstudio/get-started/csharp/?view=visualstudio)
 
 ### 📚 Resources and Next Steps
 
 | Resource | Description |
 |:---------|:------------|
-| [https://aka.ms/build26-next-steps](https://aka.ms/build26-next-steps) | Explore lab and session repos to further your learning from Microsoft Build |
+| [https://aka.ms/build26-next-steps](https://aka.ms/build26-next-steps) | Explore lab and demo repos to further your learning from Microsoft Build |
 
 
 ### 🌟 Microsoft Learn MCP Server
@@ -115,10 +108,15 @@ For more info, other clients, and to post questions, visit the [Learn MCP Server
 
 <table>
 <tr>
-    <td align="center"><a href="http://github.com/yourGitHubHandle">
-        <img src="https://github.com/yourGitHubHandle.png" width="100px;" alt="INSERT NAME HERE"/><br />
-        <sub><b>INSERT NAME HERE</b></sub></a><br />
-            <a href="https://github.com/yourGitHubHandle" title="talk">📢</a>
+    <td align="center"><a href="https://github.com/DustinCampbell">
+        <img src="https://github.com/DustinCampbell.png" width="100px;" alt="Dustin Campbell"/><br />
+        <sub><b>Dustin Campbell</b></sub></a><br />
+            <a href="https://github.com/DustinCampbell" title="talk">📢</a>
+    </td>
+    <td align="center"><a href="https://github.com/MadsTorgersen">
+        <img src="https://github.com/MadsTorgersen.png" width="100px;" alt="Mads Torgersen"/><br />
+        <sub><b>Mads Torgersen</b></sub></a><br />
+            <a href="https://github.com/MadsTorgersen" title="talk">📢</a>
     </td>
 </tr></table>
 
