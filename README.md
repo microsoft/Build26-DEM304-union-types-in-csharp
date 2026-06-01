@@ -47,11 +47,11 @@ Use these as a starting point — or write your own!
 
 | Resource | Description |
 |:---------|:------------|
-| Build 2026 Next Steps | [https://aka.ms/build26-next-steps](https://aka.ms/build26-next-steps) |
-| Try out C# unions in preview | <a href="https://aka.ms/build26/csharp/union-types">What's new in C# 15 \| Microsoft Learn</a> |
-| What's New in C# 15 | https://aka.ms/build26/csharp15?utm_source=build-dem304-related-csharp15-cta&amp;utm_medium=event&amp;utm_campaign=msbuild-2026 |
-| C# Language Design | <a href="https://aka.ms/build26/csharp/language?utm_source=build-dem304-related-csharp-language-cta&amp;utm_medium=event&amp;utm_campaign=msbuild-2026">GitHub - dotnet/csharplang: The official repo for the design of the C# programming language</a> |
-| Download .NET 11 | <a href="https://aka.ms/build26/dotnet11/download?utm_source=build-dem304-next-dotnet11-cta&amp;utm_medium=event&amp;utm_campaign=msbuild-2026">Download .NET 11.0 (Linux, macOS, and Windows) \| .NET</a> |
+| [Build 2026 Next Steps](https://aka.ms/build26-next-steps) | Explore lab and demo repos to further your learning from Microsoft Build |
+| [What's new in C# 15 &#124; Microsoft Learn](https://aka.ms/build26/csharp/union-types) | Try out C# unions in preview |
+| [What's New in C# 15](https://aka.ms/build26/csharp15?utm_source=build-dem304-related-csharp15-cta&utm_medium=event&utm_campaign=msbuild-2026) | C# 15 language updates |
+| [GitHub - dotnet/csharplang: The official repo for the design of the C# programming language](https://aka.ms/build26/csharp/language?utm_source=build-dem304-related-csharp-language-cta&utm_medium=event&utm_campaign=msbuild-2026) | C# Language Design |
+| [Download .NET 11.0 (Linux, macOS, and Windows) &#124; .NET](https://aka.ms/build26/dotnet11/download?utm_source=build-dem304-next-dotnet11-cta&utm_medium=event&utm_campaign=msbuild-2026) | Download .NET 11 |
 
 
 ### 🌟 Microsoft Learn MCP Server
