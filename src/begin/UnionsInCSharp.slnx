@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path=".editorconfig" />
+  </Folder>
+  <Project Path="1 - Demo/1 - Demo.csproj" />
+  <Project Path="2 - Playground/2 - Playground.csproj" />
+</Solution>
