@@ -1,14 +1,13 @@
-# /src
+# Requirements
 
-This folder is for source code and demo code associated with your session.
+- Visual Studio 2026 or Visual Studio Code with C# Dev Kit
+- .NET SDK 11 (preview 4 or newer)
 
-## What goes here
+# /src/begin
 
-- Sample applications or scripts demonstrated during the session
-- Starter code that attendees can use as a starting point
-- Solution code for completed exercises
+The starting state of the C# Unions demo.
 
-## Tips
+# /src/end
 
-- Include a README or comments explaining how to run the code
-- If your session doesn't include source code, feel free to remove this folder
+The ending state of the C# Unions demo.
+
