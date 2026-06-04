@@ -52,6 +52,7 @@ Use these as a starting point — or write your own!
 | [What's New in C# 15](https://aka.ms/build26/csharp15?utm_source=build-dem304-related-csharp15-cta&utm_medium=event&utm_campaign=msbuild-2026) | C# 15 language updates |
 | [GitHub - dotnet/csharplang: The official repo for the design of the C# programming language](https://aka.ms/build26/csharp/language?utm_source=build-dem304-related-csharp-language-cta&utm_medium=event&utm_campaign=msbuild-2026) | C# Language Design |
 | [Download .NET 11.0 (Linux, macOS, and Windows) &#124; .NET](https://aka.ms/build26/dotnet11/download?utm_source=build-dem304-next-dotnet11-cta&utm_medium=event&utm_campaign=msbuild-2026) | Download .NET 11 |
+| [Watch the session recording](https://aka.ms/build26/DEM304/youtube) | Watch the recorded Microsoft Build session. |
 
 
 ### 🌟 Microsoft Learn MCP Server
